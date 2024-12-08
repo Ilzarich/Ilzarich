@@ -10,6 +10,10 @@
 
 *На третьем курсе университет предложил мне пройти дополнительные курсы. Так я оказался на программе по Frontend-разработке от Яндекс Практикума, где углубил свои знания и открыл для себя современные технологии веб-разработки.*
 
+
+![myGiv](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQxYnF1YnBseWl5MnlibXQ1MjBjdW51M3RoajF3YWsyODM1a2QxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.webp)
+
+
 :ramen: **Мой стек** \
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
