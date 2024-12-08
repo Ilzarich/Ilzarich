@@ -13,8 +13,6 @@
 - После поступления в университет я создал для него сайт (тоже на **WordPress**) и уже четыре года поддерживаю его: вношу изменения, обновляю информацию и совершенствую функционал.  
 - На третьем курсе прошел курс по Frontend-разработке от **Яндекс Практикума**, где углубил свои знания и освоил современные технологии.
 
----
-
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQxYnF1YnBseWl5MnlibXQ1MjBjdW51M3RoajF3YWsyODM1a2QxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.webp)
 
 ---
