@@ -14,7 +14,7 @@
 ![myGiv](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQxYnF1YnBseWl5MnlibXQ1MjBjdW51M3RoajF3YWsyODM1a2QxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.webp)
 
 
-:ramen: **Мой стек** \
+:ramen: **Мой стек** 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
