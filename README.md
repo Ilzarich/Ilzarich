@@ -10,7 +10,5 @@
 
 *На третьем курсе университет предложил мне пройти дополнительные курсы. Так я оказался на программе по Frontend-разработке от Яндекс Практикума, где углубил свои знания и открыл для себя современные технологии веб-разработки.*
 
-:ramen: **Мой стек**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+:ramen: **Мой стек** \
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
