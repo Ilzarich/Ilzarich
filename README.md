@@ -15,6 +15,7 @@
 
 ![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQxYnF1YnBseWl5MnlibXQ1MjBjdW51M3RoajF3YWsyODM1a2QxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.webp)
 
+https://www.codewars.com/users/Ilzarich/badges/large
 ---
 
 ## 💻 Мой стек технологий  
