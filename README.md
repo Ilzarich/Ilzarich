@@ -2,7 +2,7 @@
 # Привет! 😺 Меня зовут Илья  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+разработчик;Люблю+создавать+красивые+и+удобные+интерфейсы)](https://git.io/typing-svg)
 
-![My Photo](https://imgur.com/a/sWHK533.jpg)
+![My Photo](https://i.imgur.com/sWHK533.jpg)
 
 ---
 
