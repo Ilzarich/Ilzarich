@@ -2,7 +2,7 @@
 # Привет! 😺 Меня зовут Илья  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+разработчик;Люблю+создавать+красивые+и+удобные+интерфейсы)](https://git.io/typing-svg)
 
-![My profile](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21pcjNsYTllOHd3d250YnIyaml3NWQ2ajhobnFlM2NxZG83NjE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7F2HFcT5Ww7C5rRjso/giphy.gif)
+![My profile](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWFnam1wdDcwdXQwdnBkNmNhYnA1cTIyejR0MWNrbmN1ZTNrcGliZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/704iRlAikGSnct1Kd4/giphy.gif)
 
 ---
 
@@ -13,7 +13,7 @@
 - После поступления в университет я создал для него сайт (тоже на **WordPress**) и уже четыре года поддерживаю его: вношу изменения, обновляю информацию и совершенствую функционал.  
 - На третьем курсе прошел курс по Frontend-разработке от **Яндекс Практикума**, где углубил свои знания и освоил современные технологии.
 
-![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQxYnF1YnBseWl5MnlibXQ1MjBjdW51M3RoajF3YWsyODM1a2QxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zRfp0Jwsag4yPekP4/giphy.webp)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21pcjNsYTllOHd3d250YnIyaml3NWQ2ajhobnFlM2NxZG83NjE0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7F2HFcT5Ww7C5rRjso/giphy.gif)
 
 ![Codewars Badge](https://www.codewars.com/users/Ilzarich/badges/large)
 ---
@@ -28,6 +28,8 @@
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | | |
 
 ---
+
+![GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVpenZqZmtsZngyamx4N293Nm9rZ2NsYW13ZG9rdnZiaHVzM3pnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VJxNm7zrm3K4E/giphy.gif)
 
 ## 📫 Связаться со мной  
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Ilysha_ggnebuit)  
